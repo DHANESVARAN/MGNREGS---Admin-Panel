@@ -3,7 +3,7 @@
 This repository contains the Admin Panel for the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS). The Admin Panel serves as a management interface for administrators to monitor, manage, and generate reports related to MGNREGS activities.
 
 ## Table of Contents
-
+ 
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
